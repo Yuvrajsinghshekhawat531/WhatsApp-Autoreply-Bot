@@ -1,0 +1,5 @@
+1. Install Python (if not already)
+2. Install required modules: pip install -r requirements.txt
+3. Run the script: python main.py
+4. Keep WhatsApp Web open and messages will auto-reply
+5. Press DELETE to stop the bot
