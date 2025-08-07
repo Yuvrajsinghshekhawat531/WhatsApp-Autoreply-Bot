@@ -1,0 +1,8 @@
+1. google.generativeai
+2. keyboard
+
+so,first install this by :
+                        pip install -r requirements.txt
+
+or also by
+pip install google.generativeai keyboard
